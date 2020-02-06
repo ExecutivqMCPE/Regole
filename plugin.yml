@@ -1,0 +1,9 @@
+name: Regole
+version: 1.0
+api: 3.0.0
+author: Exec
+main: Regole\Main
+description: Un plugin che implementa le regole
+commands:
+  regole:
+    description: Mostra le regole del server
